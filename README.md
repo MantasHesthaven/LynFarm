@@ -22,8 +22,9 @@ LynFarm is an add-on to the ALVA MATLAB-package developed by Asmus Skar, Sebasti
 - Download LynFarm and ALVA on your PC. [Link to ALVA](https://github.com/asmusskar/ALVA).
 - Make the LynFarm a sub-folder in the ALVA folder.
 - Open MATLAB
-- Navigate to the LynFarm folder og open 'user_input.m' to define a vehicle.
-- Open 'main.m' and launch the script to initiate LynFarm.
+- Navigate to the LynFarm folder and open `user_input.m` to define a vehicle via geometry inputs.
+- Launch the `user_input.m` script to initiate LynFarm.
+- _Optional: To run one of the example vehicle from the **example** folder, open 'main.m' and replace `user_input.m`._
 - ALVA is compatible with [OCTAVE](https://www.gnu.org/software/octave/index)
 
 ## Further work
