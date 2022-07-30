@@ -3,7 +3,7 @@
 **LynFarm is developed for calculating asphalt pavement responses under the loadings of farming vehicles on tracks and/or flotation tires.**
 
 LynFarm is an add-on to the ALVA MATLAB-package developed by Asmus Skar, Sebastian Andersen and Julius Nielsen for pavement modeling.
-[Link to ALVA](https://github.com/asmusskar/ALVA). [Read more about ALVA](https://doi.org/10.21105/joss.02548)
+[Link to ALVA](https://github.com/asmusskar/ALVA). [Read more about ALVA](https://doi.org/10.21105/joss.02548).
 
 ## The components of LynFarm are in short described below:
 
@@ -16,7 +16,7 @@ LynFarm is an add-on to the ALVA MATLAB-package developed by Asmus Skar, Sebasti
 - 'pavement_response.m' - calculates the responses in the defined half-space for a full tracked vehicle by the means of interpolation and superposition algorithms.
 
 ## Installation
-- Download LynFarm and ALVA on your PC. [ALVA Link](https://github.com/asmusskar/ALVA)
+- Download LynFarm and ALVA on your PC. [Link to ALVA](https://github.com/asmusskar/ALVA)
 - Make the LynFarm a sub-folder in the ALVA folder.
 - Open MATLAB
 - Navigate to the LynFarm folder og open 'user_input.m' to define a vehicle.
