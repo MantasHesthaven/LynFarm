@@ -11,7 +11,7 @@ LynFarm is an add-on to the ALVA MATLAB-package developed by Asmus Skar, Sebasti
 ## LynFarm roadmap
 
 <div>
-<img src="images/Roadmap_LynFarm.png" width="100%">
+<img src="images/Roadmap_LynFarm_Ver.1.1.png" width="100%">
 </div>
 <p>
  <b>Figure 1:</b> LynFarm roadmap. 
