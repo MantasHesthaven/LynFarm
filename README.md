@@ -23,9 +23,13 @@ LynFarm is an add-on to the ALVA MATLAB-package developed by Asmus Skar, Sebasti
 
 - `main.m` - is an executional file taking in the user's inputs and initiating a sequence of sub-procedures in the right order. In the end, the file gathers all information and provides the output. A plot of a specific response can optionally be chosen too.
 
+- ALVA - This command initiates the ALVA as a sub-routine.
+
 - `filling_function.m` - runs a geometrical algorithm to fill a single rectangular patch with small identical micro-circles positioned in an intersecting yet non-overlapping lattice-like arrangement that optimally covers the patch's geometry.
 
-- `pavement_response.m` - calculates the responses in the defined half-space for a full tracked vehicle by the means of interpolation and superposition algorithms.
+- `pavement_response.m` & `grid assembly.m`- calculates the responses in a discrete half-space for a full farming vehicle by the means of interpolation and superposition algorithms. The discrete half-space is for presentation assembled as a finite 2D-grid containing many nodes. Each node contains the magnitudes of each response type. The `grid assembly.m` file collects each patch's contribution w.r.t. response magnitudes to each node element in the 2D-grid, and assembles it all onto a single common space.
+
+- Plot - The plotting function is optional and can be turned on to review the finite 2D-grid of a selected response for the farming vehicle.
 
 ## Installation
 - Download LynFarm and ALVA on your PC. [Link to ALVA](https://github.com/asmusskar/ALVA).
