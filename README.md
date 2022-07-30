@@ -10,6 +10,13 @@ LynFarm is an add-on to the ALVA MATLAB-package developed by Asmus Skar, Sebasti
 
 ## LynFarm roadmap
 
+<div>
+<img src="images/Roadmap_LynFarm.png" width="100%">
+</div>
+<p>
+ <b>Figure 1:</b> LynFarm roadmap. 
+</p>
+
 **The components are in short described below:**
 
 - `user_input.m` - collects user inputs comprising of parameters about: the farming vehicle's geometry, the desired computational accuracy, and the linear elastic half-space resembling the pavement.
