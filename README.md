@@ -31,7 +31,7 @@ LynFarm is an add-on to the ALVA MATLAB-package developed by Asmus Skar, Sebasti
 
 - **PLOT** - This command is optional and can be turned on to construct and review a finite 2D-grid of a selected response for the farming vehicle once all calculations are done.
 
-- **OUTPUT** - Last step in the code where results are presented in command window (and with the plot if selected to).
+- **OUTPUT** - Last step in the code where results are presented in command window (and the plot is shown if selected to).
 
 ## Installation
 - Download LynFarm and ALVA on your PC. [Link to ALVA](https://github.com/asmusskar/ALVA).
