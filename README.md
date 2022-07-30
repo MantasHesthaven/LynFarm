@@ -1,5 +1,5 @@
 # LynFarm
-### Ver. 1.0 (July 2022)
+* Ver. 1.0 (July 2022) *
 
 **LynFarm is developed for calculating asphalt pavement responses under the loadings of farming vehicles on tracks and/or flotation tires.**
 
