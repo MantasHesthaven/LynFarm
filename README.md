@@ -19,7 +19,7 @@ LynFarm is an add-on to the ALVA MATLAB-package developed by Asmus Skar, Sebasti
 - `pavement_response.m` - calculates the responses in the defined half-space for a full tracked vehicle by the means of interpolation and superposition algorithms.
 
 ## Installation
-- Download LynFarm and ALVA on your PC. [Link to ALVA](https://github.com/asmusskar/ALVA)
+- Download LynFarm and ALVA on your PC. [Link to ALVA](https://github.com/asmusskar/ALVA).
 - Make the LynFarm a sub-folder in the ALVA folder.
 - Open MATLAB
 - Navigate to the LynFarm folder og open 'user_input.m' to define a vehicle.
