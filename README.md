@@ -3,7 +3,7 @@
 **LynFarm is developed for calculating asphalt pavement responses under the loadings of farming vehicles on tracks and/or flotation tires.**
 
 LynFarm is an add-on to the ALVA MATLAB-package developed by Asmus Skar, Sebastian Andersen and Julius Nielsen for pavement modeling.
-Link to ALVA: [Web address](https://github.com/asmusskar/ALVA). Read about ALVA here: [DOI](https://doi.org/10.21105/joss.02548)
+[Link to ALVA](https://github.com/asmusskar/ALVA). [Read more about ALVA](https://doi.org/10.21105/joss.02548)
 
 ## The components of LynFarm are in short described below:
 
